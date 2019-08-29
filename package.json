@@ -1,0 +1,21 @@
+{
+  "name": "textract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravishankar S R",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "docx-pdf-pagecount": "0.0.3",
+    "download-pdf": "^0.1.6",
+    "pdf-text-extract": "^1.5.0",
+    "read-excel-file": "^4.0.1",
+    "request": "^2.88.0",
+    "solr-client": "^0.7.0",
+    "solr-node": "^1.2.1"
+  }
+}

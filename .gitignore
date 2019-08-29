@@ -1,0 +1,7 @@
+#dont push node modules folder
+.vscode
+node_modules
+dist
+*.log
+# dont push package-lock.json file
+package-lock.json
